@@ -91,7 +91,7 @@ LR05| EXIT| IMPLEMENTED
 
 | SF ID  | Name          | 
 |--------|-------------- |
-| 99006105 | Golla Mani Varma   | 
+| 99006105 | Makkena Manikanta   | 
 
 ## Features Table 
 
