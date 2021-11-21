@@ -91,7 +91,7 @@ LR05| EXIT| IMPLEMENTED
 
 | SF ID  | Name          | 
 |--------|-------------- |
-| 99006105 | Makkena Manikanta   | 
+| 40020758 | Makkena Manikanta   | 
 
 ## Features Table 
 
